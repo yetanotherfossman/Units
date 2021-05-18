@@ -29,5 +29,4 @@
     <string name="keypad_mass">peso...</string>
     <string name="keypad_time">tiempo...</string>
     <string name="currency">$</string>
-    <string name="clear_history">Borrar historial</string>
 </resources>
