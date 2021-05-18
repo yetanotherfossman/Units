@@ -1,3 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+    <string name="app_name">Unidades</string>
+    <string name="have_hint">usted tiene</string>
+    <string name="want_hint">usted quiere</string>
+    <string name="ctx_menu_send">Enviar</string>
+    <string name="ctx_menu_send_title">Enviar resultado con...</string>
+    <string name="ctx_menu_reedit">Reeditar</string>
+    <string name="ctx_menu_use_result">Usar resultado</string>
+    <string name="toast_copy">\"%1$s\" copiado al portapapeles.</string>
+    <string name="menu_swap_input">Intercambiar entradas</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_show_history">Mostrar historial</string>
+    <string name="menu_clear_history">Limpiar historial</string>
+    <string name="menu_pick_unit">Elegir unidad</string>
+    <string name="menu_unit_details">Detalles de unidad</string>   
+    <string name="dialog_about_title">Acerca de Unidades</string>
+    <string name="dialog_all_units_title">Todas las unidades</string>
+    <string name="search_hint">Buscar unidades</string>
+    <string name="search_no_results">Ninguna unidad encontrada.</string>
+    <string name="search_title_unit">Unidades que concuerdan con \"%1$s\"</string>
+    <string name="dialog_loading_units">Cargando base de datos inicial...</string>
+    <string name="err_have_empty">¿Qué deseas convertir?</string>
+    <string name="err_no_conform">No se pudo convertir a esta unidad.</string>
+    <string name="err_no_load_about">Error: no se pudo cargar la página \"Acerca de\"</string>
+    <string name="reciprocal_conversion">conversión recíproca</string>
+    <string name="unit_entry">unidad</string>
+    <string name="keypad_length">longitud...</string>
+    <string name="keypad_mass">peso...</string>
+    <string name="keypad_time">tiempo...</string>
+    <string name="currency">$</string>
+    <string name="clear_history">Borrar historial</string>
 </resources>
